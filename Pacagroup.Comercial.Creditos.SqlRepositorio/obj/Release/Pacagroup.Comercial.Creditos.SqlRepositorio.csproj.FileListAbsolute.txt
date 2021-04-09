@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.SqlRepositorio\bin\Release\Pacagroup.Comercial.Creditos.SqlRepositorio.dll
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.SqlRepositorio\bin\Release\Pacagroup.Comercial.Creditos.SqlRepositorio.pdb
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.SqlRepositorio\bin\Release\Dapper.dll
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.SqlRepositorio\bin\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.SqlRepositorio\bin\Release\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.SqlRepositorio\bin\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.SqlRepositorio\bin\Release\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.SqlRepositorio\bin\Release\Dapper.xml
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.SqlRepositorio\obj\Release\Pacagroup.Comercial.Creditos.SqlRepositorio.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.SqlRepositorio\obj\Release\Pacagroup.Comercial.Creditos.SqlRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.SqlRepositorio\obj\Release\Pacagroup.Comercial.Creditos.SqlRepositorio.csproj.CopyComplete
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.SqlRepositorio\obj\Release\Pacagroup.Comercial.Creditos.SqlRepositorio.dll
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.SqlRepositorio\obj\Release\Pacagroup.Comercial.Creditos.SqlRepositorio.pdb

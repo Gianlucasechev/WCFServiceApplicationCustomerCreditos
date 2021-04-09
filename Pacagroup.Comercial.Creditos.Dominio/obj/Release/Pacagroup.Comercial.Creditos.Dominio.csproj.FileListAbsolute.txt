@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.Dominio\bin\Release\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.Dominio\bin\Release\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.Dominio\obj\Release\Pacagroup.Comercial.Creditos.Dominio.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.Dominio\obj\Release\Pacagroup.Comercial.Creditos.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.Dominio\obj\Release\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.Dominio\obj\Release\Pacagroup.Comercial.Creditos.Dominio.pdb

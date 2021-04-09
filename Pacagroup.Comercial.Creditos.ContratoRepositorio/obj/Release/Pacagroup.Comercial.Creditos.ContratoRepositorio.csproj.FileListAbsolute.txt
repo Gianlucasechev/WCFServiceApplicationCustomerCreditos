@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Release\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Release\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.csproj.CopyComplete
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+C:\Users\admin\source\repos\SOA\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
